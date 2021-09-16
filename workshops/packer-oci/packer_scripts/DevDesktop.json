@@ -1,9 +1,9 @@
 { 
-      "my.user_ocid":"pasteYourUserOCID",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
-      "my.fingerprint":"pasteYourFingprint",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
-      "my.region": "us-ashburn-1",
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaak3ilritvvno2x6xdpi4yernka5kmivd3lo4efbiiqyo5szfts5na",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaachm74bbfp4kr2ff7ayym3d7byzdaitwfw7lweabbgo6f6ljb52hq",
+      "my.fingerprint":"5e:e3:fb:4b:d9:41:43:41:e5:48:69:be:1b:c4:d0:17",
+      "my.availability_domain": "KgMB:AP-MELBOURNE-1-AD-1",
+      "my.region": "ap-melbourne-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaav7quctdzc65xea7peluebewj7lvs3qmdjdbacbaog4km2ecq4y3q",
       "my.subnet_ocid": "ocid1.subnet.oc1.ap-melbourne-1.aaaaaaaalytrbj3qntkly6jrntptzhuqo6nqrtlrugif3rqfpgk35ylzfcra",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
